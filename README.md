@@ -4,10 +4,11 @@
 Clean and prepare raw data for machine learning using techniques like handling missing values, encoding categorical variables, feature scaling, and outlier detection.
 
 ## Files Included
-- `titanic_data_cleaning.ipynb` – Jupyter Notebook with full preprocessing steps  
+- `titanic-2.py` – Google colab code with full preprocessing steps  
 - `cleaned_titanic.csv` – Cleaned dataset after preprocessing  
 - `plots/` folder – Contains visualizations like correlation heatmap and boxplot  
 - `README.md` – This file (explains what the repo contains)
+- `Titanic_Dataset.csv` - Original dataset before preprocessing 
 
 ## Tools & Libraries
 - Python
